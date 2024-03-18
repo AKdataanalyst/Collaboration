@@ -1,2 +1,2 @@
-print('hello')
-print('hello2')
+for i in range(2):
+    print(i)
